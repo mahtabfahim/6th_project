@@ -1,0 +1,22 @@
+.wrapper{width:60%;
+	margin: 0 auto;
+	border: 5px solid #ddd;
+	color: #3E4E1A;
+	background-color: #D5EEF3;
+	font-weight: 700;
+	font-family: sans-serif;
+	font
+}
+label{
+	font-size: 25spx;
+}
+.first_name , .last_name , .email , .password, .date , .gender , .education{
+	width: 90%;
+    height: 25px;
+    padding: 10px;
+    font-size: 18px;
+}
+.messege{
+	font-size: 18px;
+	padding: 10px;
+}
